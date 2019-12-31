@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OAuthTest.OAuthTest" duration-ms="12552" started-at="2019-12-31T10:52:51 EET" finished-at="2019-12-31T10:53:04 EET">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12552" started-at="2019-12-31T10:52:51 EET" finished-at="2019-12-31T10:53:04 EET">
+      <class name="OAuthTest.OAuthTest">
+        <test-method status="PASS" signature="testAuth()[pri:0, instance:OAuthTest.OAuthTest@194bcebf]" name="testAuth" duration-ms="12513" started-at="2019-12-31T10:52:52 EET" finished-at="2019-12-31T10:53:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAuth -->
+      </class> <!-- OAuthTest.OAuthTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- OAuthTest.OAuthTest -->
+</testng-results>

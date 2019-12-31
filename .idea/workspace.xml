@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec1a5a9-a2bd-4b24-a0ac-e5d81e487c9b" name="Default Changelist" comment="" />
+    <list default="true" id="5ec1a5a9-a2bd-4b24-a0ac-e5d81e487c9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basics1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basics3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EugeneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/traffic/AustralianTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/traffic/CentralTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OAuthTest/OAuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoproject/Basic7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoproject/Basic8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoproject/ComplexObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoproject/DemoProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoproject/PayLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoproject/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excelDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/GetCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/WebAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.properties" beforeDir="false" afterPath="$PROJECT_DIR$/env.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,12 +38,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UpywKSR8pPvWvPhn5H4DzwF0FI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/rest api udemy course/json-path-4.1.2-dist/json-path-4.1.2-deps" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/test/selenium-server-standalone-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -25,6 +58,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pojo" />
+      <recent name="demoproject" />
       <recent name="" />
     </key>
   </component>
@@ -40,11 +75,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Basics5.Test">
-    <configuration name="Basics3" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.EugeneExample">
+    <configuration name="Basics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics1" />
       <module name="RestAPITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Basics3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EugeneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EugeneExample" />
+      <module name="RestAPITest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_exercise" />
+      <module name="RestAPITest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPITest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OAuthTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OAuthTest" />
+      <option name="MAIN_CLASS_NAME" value="OAuthTest.OAuthTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -52,11 +114,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Basics3.AddandDeletePlace" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OAuthTest.testAuth" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAPITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Basics3" />
-      <option name="METHOD_NAME" value="AddandDeletePlace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OAuthTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OAuthTest" />
+      <option name="MAIN_CLASS_NAME" value="OAuthTest.OAuthTest" />
+      <option name="METHOD_NAME" value="testAuth" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -64,48 +132,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Basics5" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAPITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Basics5" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Basics5.Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAPITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Basics5" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Basics.Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAPITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Basics" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="TestNG.OAuthTest.testAuth" />
+      <item itemvalue="TestNG.OAuthTest" />
+      <item itemvalue="Application.Basics1" />
+      <item itemvalue="Application.Strings_exercise" />
+      <item itemvalue="Application.EugeneExample" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Basics5.Test" />
-        <item itemvalue="TestNG.Basics.Test" />
-        <item itemvalue="TestNG.Basics5" />
-        <item itemvalue="TestNG.Basics3.AddandDeletePlace" />
-        <item itemvalue="TestNG.Basics3" />
+        <item itemvalue="Application.EugeneExample" />
+        <item itemvalue="Application.Strings_exercise" />
+        <item itemvalue="Application.Basics1" />
+        <item itemvalue="TestNG.OAuthTest.testAuth" />
+        <item itemvalue="TestNG.OAuthTest" />
       </list>
     </recent_temporary>
   </component>
@@ -121,5 +161,18 @@
       <updated>1576068068715</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
